@@ -1,0 +1,17 @@
+{
+  "type": "AdaptiveCard",
+  "version": "1.4",
+  "body": [],
+  "actions": [
+    {
+      "type": "Action.Submit",
+      "title": "Button 1",
+      "id": "button1"
+    },
+    {
+      "type": "Action.Submit",
+      "title": "Button 2",
+      "id": "button2"
+    }
+  ]
+}

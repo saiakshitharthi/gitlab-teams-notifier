@@ -1,0 +1,7 @@
+{
+  "type": "Input.Text",
+  "id": "multilineInputId",
+  "placeholder": "Enter Reply",
+  "maxLength": 500,
+  "isMultiline": true
+}

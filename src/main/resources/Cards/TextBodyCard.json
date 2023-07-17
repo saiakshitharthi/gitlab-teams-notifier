@@ -1,0 +1,7 @@
+{
+  "type": "TextBlock",
+  "size": "medium",
+  "text": "Unsubscribe",
+  "style": "heading",
+  "wrap": true
+}

@@ -1,0 +1,10 @@
+{
+  "type": "Action.Submit",
+  "title": "OK",
+  "data": {
+    "button": "BUTTON_ID",
+    "discussionThreadURL": "URL",
+    "discussionThreadID": "THREAD_ID"
+  },
+  "value": "OK"
+}

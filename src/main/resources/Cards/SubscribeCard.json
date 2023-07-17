@@ -1,0 +1,29 @@
+{
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "type": "AdaptiveCard",
+  "version": "1.0",
+  "body": [
+    {
+      "type": "TextBlock",
+      "size": "extraLarge",
+      "weight": "bolder",
+      "text": "Subscribe",
+      "style": "heading",
+      "wrap": true
+    },
+
+    {
+      "type": "Input.ChoiceSet",
+      "id": "subscribeOptions",
+      "isMultiSelect": true,
+      "style": "expanded",
+      "label": "What notifications you want to subscribe?",
+      "choices": [
+
+      ]
+    }
+  ],
+  "actions": [
+
+  ]
+}

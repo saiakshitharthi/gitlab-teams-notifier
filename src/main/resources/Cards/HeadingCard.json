@@ -1,0 +1,8 @@
+{
+  "type": "TextBlock",
+  "size": "extraLarge",
+  "weight": "bolder",
+  "text": "Unsubscribe",
+  "style": "heading",
+  "wrap": true
+}
