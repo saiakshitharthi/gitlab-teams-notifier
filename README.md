@@ -104,6 +104,6 @@ Please follow the above steps in Microsoft teams.
 The doc below contains how I implemented this app:
 [Project Report](Project_Report.pdf)
 
-The below link contains all the implementaiton details of this application:
-https://sprinklr-my.sharepoint.com/personal/nabagata_saha_sprinklr_com/_layouts/15/onedrive.aspx?ct=1689313750026&or=Teams%2DHL&ga=1&id=%2Fpersonal%2Fnabagata%5Fsaha%5Fsprinklr%5Fcom%2FDocuments%2FIntegration%20Interns%2FSai%20Akshith%20Arthi&view=0
+<!-- The below link contains all the implementaiton details of this application:
+https://sprinklr-my.sharepoint.com/personal/nabagata_saha_sprinklr_com/_layouts/15/onedrive.aspx?ct=1689313750026&or=Teams%2DHL&ga=1&id=%2Fpersonal%2Fnabagata%5Fsaha%5Fsprinklr%5Fcom%2FDocuments%2FIntegration%20Interns%2FSai%20Akshith%20Arthi&view=0 -->
 
