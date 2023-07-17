@@ -5,7 +5,7 @@
 
 ### Brief Description about the project:
 
-This project is a Java (Spring boot) based application, and it uses [Bot Framework](https://dev.botframework.com), which can be used to send notifications to Microsoft Teams personal chat, whenever a new trigger occurs in Gitlab repository. <span  style="color: red;" >**Note: This was my internship Project.**</span>
+This project is a Java (Spring boot) based application, and it uses [Bot Framework](https://dev.botframework.com), which can be used to send notifications to Microsoft Teams personal chat, whenever a new trigger occurs in Gitlab repository. <span  style="color: red;" >**Note: This was my internship Project.** </span>
 
 
 
@@ -102,8 +102,7 @@ Please follow the above steps in Microsoft teams.
 ### Implementation Details and other documents: 
 
 The doc below contains how I implemented this app:
-https://sprinklr-my.sharepoint.com/personal/nabagata_saha_sprinklr_com/_layouts/15/Doc.aspx?sourcedoc=%7B4051BD3D-4746-4290-8356-6F7490F5E05F%7D&file=Project_Report.docx&action=default&mobileredirect=true&CT=1689316627188&OR=ItemsView
-
+[Project Report] (Project_Report.pdf)
 
 The below link contains all the implementaiton details of this application:
 https://sprinklr-my.sharepoint.com/personal/nabagata_saha_sprinklr_com/_layouts/15/onedrive.aspx?ct=1689313750026&or=Teams%2DHL&ga=1&id=%2Fpersonal%2Fnabagata%5Fsaha%5Fsprinklr%5Fcom%2FDocuments%2FIntegration%20Interns%2FSai%20Akshith%20Arthi&view=0
